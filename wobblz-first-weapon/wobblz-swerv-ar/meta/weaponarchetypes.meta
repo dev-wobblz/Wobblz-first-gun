@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>w_at_ar_wobblz_swerv_supp</modelName>
+			<txdName>w_at_ar_wobblz_swerv_supp</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="150"/>
+		</Item>
+		<Item>
+			<modelName>wobblz_swerv_mag1</modelName>
+			<txdName>wobblz_swerv_mag1</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="200"/>
+		</Item>
+		<Item>
+			<modelName>wobblz_swerv</modelName>
+			<txdName>wobblz_swerv</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
